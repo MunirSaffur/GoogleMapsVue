@@ -1,4 +1,4 @@
-# volt-line
+# GoogleMapsVue
 
 ## Project setup
 ```
